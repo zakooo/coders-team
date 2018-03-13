@@ -17,3 +17,8 @@ h1{
     display: flex;
     overflow:hidden;
 }
+.left-child{
+    margin-right:45px;
+    font-family:sans-serif;
+    line-height:25px
+}
