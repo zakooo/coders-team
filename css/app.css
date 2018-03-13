@@ -20,5 +20,19 @@ h1{
 .left-child{
     margin-right:45px;
     font-family:sans-serif;
-    line-height:25px
+    line-height:25px;
+    overflow:hidden
+}
+.left-child input{
+    width:170px;
+    padding:10px;
+    margin-top:0px;
+    font-family:sans-serif;
+    font-size:15px;
+    font-weight:bold;
+    color:white;
+    background-color:#547B26;
+    text-transform: uppercase;
+    border:solid 1px #547B26;
+    border-radius:4px;
 }
