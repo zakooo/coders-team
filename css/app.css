@@ -8,3 +8,12 @@ h1{
     font-size:35px;
     color:#2B4389;
 }
+#parent{
+    width:90%;
+    margin:40px auto;
+    padding:15px;
+    border:solid 1.5px #EDB730;
+    border-radius:4px;
+    display: flex;
+    overflow:hidden;
+}
